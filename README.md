@@ -21,3 +21,5 @@ MACHINE LEARNING MODELS:
 1. Logistic regression 
 2. Support vector machine 
 3. Naïve Bayes 
+
+Project Refernce Video : https://youtu.be/1f7iJBXFwoM
